@@ -1,0 +1,14 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Take User note and keep a history",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Samson Wong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
